@@ -1,2 +1,3 @@
 # pricing-page
-![Screenshot (43)](https://github.com/anuj-nagare/pricing-page/assets/129619366/adb4119d-dbbe-4556-a97b-9506cdf6ef33)
+![Screenshot (44)](https://github.com/anuj-nagare/pricing-page/assets/129619366/48d9a542-b1d1-4f71-a55f-aa736ac11923)
+
